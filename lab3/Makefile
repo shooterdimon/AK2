@@ -7,4 +7,4 @@ main.o: main.cpp
 	g++ -c main.cpp
 	
 clean:
-	rm -rf *.o main
+	rm -rf *.o 
